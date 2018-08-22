@@ -30,3 +30,10 @@
 4. Observaciones 
  * Tipos de informacion buscadas 
  * Obsevaciones del ambiente fisico.
+ 
+## Unidad 3: El proceso de análisis.
+1. Diagrama de flujo de datos.
+  * El enfoque de flujo de datos para la determinacíon de requerimietos.
+  * Desarrollo de diagramas de flujo de datos.
+  * Diagrama de flujo de datos lógicos y físicos.
+  * Partición del diagrama de flujo de datos.
